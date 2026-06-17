@@ -4,7 +4,7 @@ Portafolio personal desarrollado como parte de la asignatura **Seminario de Actu
 
 ## 🌐 Demo en vivo
 
-🔗 [https://dandresmurillo.github.io/portfolio/](https://dandresmurillo.github.io/portfolio/)
+🔗 [https://dandresmurillo.github.io/portafolio/](https://dandresmurillo.github.io/portafolio/)
 
 ## 📋 Información del proyecto
 
